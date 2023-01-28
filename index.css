@@ -1,0 +1,14 @@
+.navbar {
+    background-color: #000;
+    width: 100%;
+    display: flex;
+
+}
+
+#title {
+    color: aliceblue;
+}
+
+li {
+    color: red;
+}
